@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Базова тема. Інтерфейс будується в Compose (Material 3),
+         тож тут достатньо теми без ActionBar. -->
+    <style name="Theme.CatalogApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

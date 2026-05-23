@@ -1,0 +1,11 @@
+# Нормалізація закінчень рядків
+* text=auto
+
+# Скрипти, що мають зберігати конкретні закінчення рядків
+*.bat           text eol=crlf
+gradlew         text eol=lf
+
+# Бінарні файли
+*.jar           binary
+*.png           binary
+*.keystore      binary
